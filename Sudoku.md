@@ -1,4 +1,4 @@
-    Program Name: Sudoku
+    Program Name: Sudoku (I used Cloudera 5.4.2 distribution)
 
     Source code : /org/apache/hadoop/examples/dancing/ (yarn jar hadoop-mapreduce-examples.jar sudoku) /*You need to execute this code and to be in
 			the folder /usr/lib/hadoop-mapreduce first*/
